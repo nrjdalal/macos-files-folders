@@ -1,2 +1,5 @@
 # docker
-`cd ~/Library/Group\ Containers/group.com.docker` -> settings.json 
+```sh
+# settings.json 
+cd ~/Library/Group\ Containers/group.com.docker
+```
