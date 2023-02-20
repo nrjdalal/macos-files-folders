@@ -1,1 +1,4 @@
-# macos-files-folders
+# docker
+
+> for settings.json
+~/Library/Group\ Containers/group.com.docker
