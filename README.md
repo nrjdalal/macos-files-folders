@@ -1,4 +1,2 @@
 # docker
-
-> for settings.json
-- ~/Library/Group\ Containers/group.com.docker
+`cd ~/Library/Group\ Containers/group.com.docker` -> settings.json 
